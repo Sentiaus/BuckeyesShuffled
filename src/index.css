@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+h1{
+  @apply antialiased font-raleway
+}
+
+
+h2{
+  @apply antialiased font-raleway
+}
+
+
+h3{
+  @apply antialiased font-raleway
+}
+
+
+p{
+  @apply antialiased font-raleway
+}
+
+html{
+  @apply scroll-smooth
+}
